@@ -26,8 +26,8 @@ Sou um profissional de DevOps apaixonado por construir pipelines robustos, autom
 
 ## Estatísticas  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=luangitdev&show_icons=true&theme=dark" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luangitdev&layout=compact&theme=dark" alt="Top Langs"/>
 </p>
 
 ## Entre em Contato  
