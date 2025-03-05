@@ -22,7 +22,7 @@ Sou um profissional de DevOps apaixonado por construir pipelines robustos, autom
 ## Projetos em Destaque  
 - **[Pipeline CI/CD com Docker e Github Actions](https://github.com/luangitdev/pipeline-ci-cd-simples-docker-github)**: Configurei um pipeline completo com GitHub Actions e Docker para deploy automatizado da imagem no Dockerhub.  
 - **[Aplicação Multicontainer com Docker e PostgreSQL](https://github.com/luangitdev/aplicacao-multi-container-com-docker)**: Implementei uma estrutura onde uma aplicação se conecta ao banco em um outro container e retorna o status de conexão.  
-- **[Infraestrutura como Código](https://github.com/luangitdev/terraform-azure-instances)**: Criei uma infraestrutura no Azure usando Terraform para provisionamento automatizado.
+- **[Terraform + Azure](https://github.com/luangitdev/terraform-azure-instances)**: Criei uma infraestrutura no Azure usando Terraform para provisionamento automatizado.
 
 ## Estatísticas  
 <p align="center">
