@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/ExemploBannerDevOps.jpg" alt="Banner DevOps" width="100%"/>
 </p>
 
-# Olá, eu sou Luan! 👋  
+# Bem vindo ao meu perfil, me chamo Luan!👋  
 Engenheiro DevOps | Automação | Infraestrutura como Código  
 
 Sou um profissional de DevOps apaixonado por construir pipelines robustos, automatizar processos e garantir a escalabilidade de sistemas. Tenho experiência em cloud, CI/CD e monitoramento, sempre buscando otimizar a entrega de software com segurança e eficiência.
