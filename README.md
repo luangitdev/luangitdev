@@ -38,5 +38,5 @@ Sou um profissional de DevOps apaixonado por construir pipelines robustos, autom
 </p>
 
 <p align="center">
-  "Automatizando o presente, construindo o futuro da tecnologia." 🚀
+  "Automatizando o presente, construindo o futuro com tecnologia." 🚀
 </p>
