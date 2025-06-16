@@ -7,7 +7,7 @@ Sou um profissional de DevOps apaixonado por construir pipelines robustos, autom
 <a href="mailto:luandecastrosilva@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## Habilidades  
-![AWS (EC2, RDS, S3, SQS, ECR, ECS, Lambda)](https://img.shields.io/badge/AWS_(EC2,_RDS,_S3,_Lambda)-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![AWS (EC2, RDS, S3, SQS, ECR, ECS, Lambda)](https://img.shields.io/badge/AWS_(EC2,_RDS,_S3,_SQS,_ECR,_ECS,_Lambda)-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
