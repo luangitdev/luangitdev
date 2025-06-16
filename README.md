@@ -17,6 +17,13 @@ Sou um profissional de DevOps apaixonado por construir pipelines robustos, autom
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-D8121A?style=flat&logo=zabbix&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ansible](https://img.shields.io/badge/Ansible-E60000?style=flat&logo=ansible&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat&logo=elastic&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
 
 ## Projetos em Destaque  
 - **[Pipeline CI/CD com Docker e Github Actions](https://github.com/luangitdev/pipeline-ci-cd-simples-docker-github)**: Configurei um pipeline completo com GitHub Actions e Docker para deploy automatizado da imagem no Dockerhub.  
