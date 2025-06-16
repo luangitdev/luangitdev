@@ -39,7 +39,7 @@ Sou um profissional de DevOps apaixonado por construir pipelines robustos, autom
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luangitdev&theme=dracula" alt="Profile Summary"/>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/luangitdev/luangitdev/output/github-contribution-grid-snake.svg)
+![github snake animation dark](https://raw.githubusercontent.com/luangitdev/luangitdev/output/github-snake-dark.svg)
 
 <p align="center">
   "Automatizando o presente e construindo o futuro com tecnologia." 🚀
