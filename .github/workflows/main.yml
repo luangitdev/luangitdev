@@ -1,3 +1,11 @@
+on:
+  schedule:
+    # Roda todo dia à meia-noite (ou no horário que preferir)
+    - cron: "0 0 * * *"
+  
+  workflow_dispatch: 
+    # Permite que você rode manualmente pela aba "Actions" do GitHub
+
 - uses: Platane/snk@v3
   with:
     # github user name to read the contribution graph from (**required**)
