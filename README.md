@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="https://i.imgur.com/ExemploBannerDevOps.jpg" alt="Banner DevOps" width="100%"/>
-</p>
-
 # Bem vindo ao meu perfil, me chamo Luan!👋  
-Engenheiro DevOps | Automação | Infraestrutura como Código  
+DevOps & Cloud Engineer | Kubernetes | Terraform | AWS | CI/CD  
 
 Sou um profissional de DevOps apaixonado por construir pipelines robustos, automatizar processos e garantir a escalabilidade de sistemas. Tenho experiência em cloud, CI/CD e monitoramento, sempre buscando otimizar a entrega de software com segurança e eficiência.
 
@@ -11,7 +7,7 @@ Sou um profissional de DevOps apaixonado por construir pipelines robustos, autom
 <a href="mailto:luandecastrosilva@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## Habilidades  
-![AWS (EC2, RDS, S3, Lambda)](https://img.shields.io/badge/AWS_(EC2,_RDS,_S3,_Lambda)-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![AWS (EC2, RDS, S3, SQS, ECR, ECS, Lambda)](https://img.shields.io/badge/AWS_(EC2,_RDS,_S3,_Lambda)-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
@@ -38,5 +34,5 @@ Sou um profissional de DevOps apaixonado por construir pipelines robustos, autom
 </p>
 
 <p align="center">
-  "Automatizando o presente, construindo o futuro com tecnologia." 🚀
+  "Automatizando o presente e construindo o futuro com tecnologia." 🚀
 </p>
