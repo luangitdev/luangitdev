@@ -6,24 +6,6 @@ Sou um profissional de DevOps apaixonado por construir pipelines robustos, autom
 <a href="https://www.linkedin.com/in/luancastrosilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:luandecastrosilva@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<!-- ## Habilidades  
-![AWS (EC2, RDS, S3, SQS, ECR, ECS, Lambda)](https://img.shields.io/badge/AWS_(EC2,_RDS,_S3,_SQS,_ECR,_ECS,_Lambda)-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-D8121A?style=flat&logo=zabbix&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Ansible](https://img.shields.io/badge/Ansible-E60000?style=flat&logo=ansible&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat&logo=elastic&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnubash&logoColor=white) -->
-
 <div align="left">
   <h3>Habilidades & Ferramentas:</h3>
   <p>
@@ -80,6 +62,26 @@ Sou um profissional de DevOps apaixonado por construir pipelines robustos, autom
     </a>
   </p>
 </div>
+
+<hr>
+
+<!-- ## Habilidades   -->
+![AWS (EC2, RDS, S3, SQS, ECR, ECS, Lambda)](https://img.shields.io/badge/AWS_(EC2,_RDS,_S3,_SQS,_ECR,_ECS,_Lambda)-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D8121A?style=flat&logo=zabbix&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ansible](https://img.shields.io/badge/Ansible-E60000?style=flat&logo=ansible&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat&logo=elastic&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 
 ## Projetos em Destaque  
