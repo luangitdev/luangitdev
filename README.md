@@ -65,7 +65,7 @@ Sou um profissional de DevOps apaixonado por construir pipelines robustos, autom
 
 <hr>
 
-<div align="center">
+<!-- <div align="center">
   <table align="center">
     <tr align="center">
       <td><img src="https://img.shields.io/badge/AWS_(EC2,_RDS,_S3,_SQS,_ECR,_ECS,_Lambda)-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS (EC2, RDS, S3, SQS, ECR, ECS, Lambda)"/></td>
@@ -88,7 +88,7 @@ Sou um profissional de DevOps apaixonado por construir pipelines robustos, autom
       <td><img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Shell Script"/></td>
     </tr>
   </table>
-</div>
+</div> -->
 
 <!-- ## Habilidades  
 ![AWS (EC2, RDS, S3, SQS, ECR, ECS, Lambda)](https://img.shields.io/badge/AWS_(EC2,_RDS,_S3,_SQS,_ECR,_ECS,_Lambda)-232F3E?style=flat&logo=amazon-aws&logoColor=white)
