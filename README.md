@@ -66,7 +66,6 @@ Sou um profissional de DevOps apaixonado por construir pipelines robustos, autom
 <hr>
 
 <div align="center">
-  <h3>Habilidades & Ferramentas</h3>
   <table align="center">
     <tr align="center">
       <td><img src="https://img.shields.io/badge/AWS_(EC2,_RDS,_S3,_SQS,_ECR,_ECS,_Lambda)-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS (EC2, RDS, S3, SQS, ECR, ECS, Lambda)"/></td>
